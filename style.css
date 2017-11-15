@@ -19,6 +19,13 @@
 	display: inline-block;
 }
 
+#H1color{
+	color: #fff;
+ background-color: #222;
+ padding: 10px;
+ margin: 0px
+}
+
 a{
 	text-decoration: none; 
 	padding: 40px; 
